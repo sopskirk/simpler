@@ -18,7 +18,7 @@ The Simpler framework is a simple and independent framework created for small in
 - [User](https://github.com/sopskirk/simpler/wiki/User-Component)
 - [Bootstrap](https://github.com/sopskirk/simpler/wiki/Bootstrap)
 
-Components that will be added in the official version:
+### Components that will be added in the official version:
 
 - Dir support
 - Simple communication with the database
