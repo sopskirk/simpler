@@ -39,6 +39,10 @@ Simpler was created primarily for small web projects. It has been divided into c
 
 All information on how to get started can be found [here](https://github.com/sopskirk/simpler/wiki/Introduction).
 
+## Version
+
+Currently, the latest version of Simpler is 1.0 beta on 23/06/2018.
+
 ## License
 
 The Simpler framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
