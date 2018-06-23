@@ -32,7 +32,7 @@ Simpler was created primarily for small web projects. It has been divided into c
 - [Simpler\Bootstrap Class](https://github.com/sopskirk/simpler/wiki/Bootstrap#class)
 - [Function using()](https://github.com/sopskirk/simpler/wiki/Bootstrap#function)
 
-> All components are contained in the `Simpler\Components\Dir\Class` namespace.
+> All components are contained in the `Simpler\Components\DirName\Class` namespace.
 
 
 ## Getting Started
