@@ -3,6 +3,9 @@
 ## Introduction
 Simpler is currently available in a pre-alpha version and is for illustrative purposes only.
 
+## Version
+Currently, the latest version of Simpler is 1.0 beta on 23/06/2018.
+
 ## About Simpler
 The Simpler framework is a simple and independent framework created for small internet projects. No other framework is required to support it, only PHP version 7+. At the moment Simpler has been equipped with the following components:
 
@@ -33,9 +36,6 @@ Simpler was created primarily for small web projects. It has been divided into c
 
 ## Getting Started
 All information on how to get started can be found [here](https://github.com/sopskirk/simpler/wiki/Introduction).
-
-## Version
-Currently, the latest version of Simpler is 1.0 beta on 23/06/2018.
 
 ## Documentation
 Full documentation can be found [here](https://github.com/sopskirk/simpler/wiki).
