@@ -17,6 +17,7 @@ The Simpler framework is a simple and independent framework created for small in
 - [Import](https://github.com/sopskirk/simpler/wiki/Import-Component)
 - [Randval](https://github.com/sopskirk/simpler/wiki/Randval-Component)
 - [User](https://github.com/sopskirk/simpler/wiki/User-Component)
+- [Translate](https://github.com/sopskirk/simpler/wiki/Translate)
 - [Bootstrap](https://github.com/sopskirk/simpler/wiki/Bootstrap)
 
 ### Components that will be added in the official version:
