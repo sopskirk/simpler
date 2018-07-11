@@ -11,7 +11,6 @@ The Simpler framework is a simple and independent framework created for small in
 
 - [File support](https://github.com/sopskirk/simpler/wiki/Facdes-Components#File)
 - [Cookie](https://github.com/sopskirk/simpler/wiki/Http-Components#Cookie)
-- [Session](https://github.com/sopskirk/simpler/wiki/Http-Components#Session)
 - [Reportable](https://github.com/sopskirk/simpler/wiki/Reports-Components#Reportable)
 - [Import](https://github.com/sopskirk/simpler/wiki/Import-Component)
 - [Randval](https://github.com/sopskirk/simpler/wiki/Randval-Component)
@@ -20,6 +19,7 @@ The Simpler framework is a simple and independent framework created for small in
 
 ### Components that will be added in the official version:
 - Dir support,
+- Session,
 - Simple communication with the database,
 - Adding assets (js/css),
 - Form support,
