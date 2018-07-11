@@ -13,18 +13,18 @@ The Simpler framework is a simple and independent framework created for small in
 - [Cookie](https://github.com/sopskirk/simpler/wiki/Http-Components#Cookie)
 - [Session](https://github.com/sopskirk/simpler/wiki/Http-Components#Session)
 - [Reportable](https://github.com/sopskirk/simpler/wiki/Reports-Components#Reportable)
-- [Safety](https://github.com/sopskirk/simpler/wiki/Safety-Components)
 - [Import](https://github.com/sopskirk/simpler/wiki/Import-Component)
 - [Randval](https://github.com/sopskirk/simpler/wiki/Randval-Component)
 - [User](https://github.com/sopskirk/simpler/wiki/User-Component)
-- [Translate](https://github.com/sopskirk/simpler/wiki/Translate)
 - [Bootstrap](https://github.com/sopskirk/simpler/wiki/Bootstrap)
 
 ### Components that will be added in the official version:
-- Dir support
-- Simple communication with the database
-- Adding assets (js/css)
-- Form support
+- Dir support,
+- Simple communication with the database,
+- Adding assets (js/css),
+- Form support,
+- Safety,
+- Translate,
 - etc
 
 ## Simpler Components
