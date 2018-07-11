@@ -39,7 +39,7 @@ Simpler was created primarily for small web projects. It has been divided into c
 All information on how to get started can be found [here](https://github.com/sopskirk/simpler/wiki/Introduction).
 
 ## Documentation
-Full documentation can be found [here](https://github.com/sopskirk/simpler/wiki).
+The documentation is not fully finished yet [here](https://github.com/sopskirk/simpler/wiki).
 
 ## License
 The Simpler framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
