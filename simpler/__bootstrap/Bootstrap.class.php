@@ -40,15 +40,13 @@
 			$component = strtolower($component);
 
 			switch($component){
-				case 'dir'		: return new Dir;break;
-				case 'file'		: return new File;break;
+				case 'file'	: return new File;break;
 				case 'cookie' 	: return new Cookie;break;
-				case 'session'	: return new Session;break;
 				case 'assets'	: return new Assets;break;
 				case 'valid'	: return new Valid;break;
 				case 'randval'	: return new Randval;break;
 				case 'reports'	: return new Reportable;break;
-				case 'user'		: return new User;break;
+				case 'user'	: return new User;break;
 				default : $this->report('The given parameter <i>'.$component.'</i> for the function <u>using</u> has not been recognized!');
 			}
 		}
