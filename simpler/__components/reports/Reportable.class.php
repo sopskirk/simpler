@@ -119,8 +119,8 @@
             $file = new File;
             $file = $file->use(self::LOG_FILE);
 
-            if($file->find($id)){
-                $find = $file->findFirst($id);
+            if($file->find($phrase)){
+                $find = $file->findFirst($phrase);
 
                 // Creates an array of the search report.
                 $explode = str_replace(array('[REPORT ID:', 'DATE:', 'MSG:', 'FILE:', 'LINE:', 'FUNCTION:', 'CLASS:', '[', ']'), '', $find);
